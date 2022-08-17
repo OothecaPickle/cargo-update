@@ -64,7 +64,7 @@ serde = "1.0"
 # indirect via url
 # https://travis-ci.org/github/nabijaczleweli/cargo-update/jobs/748120410#L254 vs https://travis-ci.org/github/nabijaczleweli/cargo-update/jobs/762755678#L262
 idna = "=0.2.0"
-git2 = "0.11"
+git2 = "0.15"
 dirs = "2.0"
 json = "0.11"
 toml = "0.5"
